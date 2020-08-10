@@ -1,0 +1,1 @@
+dnsrecon -n 8.8.8.8 -d vulnbegin.co.uk

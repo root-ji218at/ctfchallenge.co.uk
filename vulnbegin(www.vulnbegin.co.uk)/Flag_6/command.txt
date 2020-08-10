@@ -1,0 +1,1 @@
+ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt -b "token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" -u http://www.vulnbegin.co.uk/cpadmin/FUZZ

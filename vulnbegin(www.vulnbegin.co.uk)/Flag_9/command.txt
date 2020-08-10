@@ -1,0 +1,2 @@
+ffuf -w ~/Wordlists/0-10000.txt -H "X-Token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" -u http://server.vulnbegin.co.uk/user/FUZZ -mc all -fc 404
+curl -H "X-Token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" http://server.vulnbegin.co.uk/user/5/info

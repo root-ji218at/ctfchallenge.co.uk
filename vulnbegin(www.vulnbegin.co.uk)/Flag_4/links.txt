@@ -1,0 +1,2 @@
+http://www.vulnbegin.co.uk/robots.txt
+http://www.vulnbegin.co.uk/secret_d1rect0y/

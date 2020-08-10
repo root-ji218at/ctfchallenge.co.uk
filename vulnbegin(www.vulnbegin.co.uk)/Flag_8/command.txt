@@ -1,0 +1,2 @@
+ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt -H "X-Token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" -u http://server.vulnbegin.co.uk/FUZZ
+curl -H "X-Token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" http://server.vulnbegin.co.uk/user
