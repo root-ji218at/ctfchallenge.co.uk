@@ -1,0 +1,2 @@
+cat router-config.bak
+base64 -d router-config.bak

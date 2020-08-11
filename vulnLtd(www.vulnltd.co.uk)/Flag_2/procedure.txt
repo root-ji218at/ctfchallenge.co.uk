@@ -1,0 +1,2 @@
+login via guest:tuesday
+then intercept the packet using burpsuite and make the admin=True

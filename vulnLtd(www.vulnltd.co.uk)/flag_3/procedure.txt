@@ -1,0 +1,2 @@
+send a mail to "start-ticket@vulnltd.co.uk"
+the flag will be provided

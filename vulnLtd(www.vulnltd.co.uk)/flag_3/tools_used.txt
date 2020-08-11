@@ -1,0 +1,2 @@
+burpsuite 2020.2
+firefox 
