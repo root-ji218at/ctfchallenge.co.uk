@@ -1,0 +1,5 @@
+send an email to simon.boswell@vulncommerce.co.uk with the login link.
+This will act as a social engineering attact.
+After few minuites you will get to see the name "Simon" in the login page.
+Click on the name to view his profile.
+Here you will get the flag

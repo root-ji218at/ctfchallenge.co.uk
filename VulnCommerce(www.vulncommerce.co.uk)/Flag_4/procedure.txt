@@ -1,0 +1,3 @@
+The hash in the link sent via email has a relation with the number provided before it.
+the hash can easily be cracked using "john".
+The hash is a md5 hash and it is the hash of the number before it.

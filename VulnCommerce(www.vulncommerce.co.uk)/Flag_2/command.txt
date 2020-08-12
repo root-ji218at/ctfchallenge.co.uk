@@ -1,0 +1,1 @@
+ffuf -w /usr/share/seclists/Discovery/Web-Content/common.txt -b "ctfchallenge=eyJkYXRhIjoiZXlKMWMyVnlYMmhoYzJnaU9pSXdiV3RxWldGbWJ5SXNJbkJ5WlcxcGRXMGlPbVpoYkhObExDSndjbVZ0YVhWdFgyVjRjR2x5WlhNaU9qQjkiLCJ2ZXJpZnkiOiJjMWY0NjI4ZGE0NGM0ZDZhMWY2Mjc2YTM2MzYxNmNhOCJ9" -u http://vulncommerce.co.uk/FUZZ

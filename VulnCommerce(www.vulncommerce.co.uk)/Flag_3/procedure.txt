@@ -1,0 +1,2 @@
+proxy the packets of vulncommerce.co.uk from Burpsuite and use the sitemap to get a directory.
+search the directory location and you would find a new directory and then to a file where flag is located.

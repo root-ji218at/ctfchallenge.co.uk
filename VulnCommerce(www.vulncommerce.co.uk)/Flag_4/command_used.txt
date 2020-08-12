@@ -1,0 +1,2 @@
+sudo john --format=raw-md5 hash_file
+ffuf -w ~/Desktop/1-10.txt -b "ctfchallenge=eyJkYXRhIjoiZXlKMWMyVnlYMmhoYzJnaU9pSXdiV3RxWldGbWJ5SXNJbkJ5WlcxcGRXMGlPbVpoYkhObExDSndjbVZ0YVhWdFgyVjRjR2x5WlhNaU9qQjkiLCJ2ZXJpZnkiOiJjMWY0NjI4ZGE0NGM0ZDZhMWY2Mjc2YTM2MzYxNmNhOCJ9" -u http://www.vulncommerce.co.uk/email-status/FUZZ
